@@ -1,8 +1,8 @@
 {
   "WaterTracker":
   [
-    {"WaterDescription":"Difficult","Image":"https://github.com/saadfaisal321/IT315Project2/blob/cfd7329256604d4bfecc86f77eae050159a3f8ce/secondbackground.jpeg"},
-    {"WaterDescription":"Difficult","Image":"https://github.com/saadfaisal321/IT315Project2/blob/cfd7329256604d4bfecc86f77eae050159a3f8ce/secondbackground.jpeg"}
+    {"WaterDescription":"Among U.S. adults, men consumed an average of 3.46 liters (117 ounces) of water per day. Men aged 60 and over consumed less water (2.92 liters) than men aged 20–39 (3.61 liters) and 40–59 (3.63 liters)","Image":"https://github.com/saadfaisal321/IT315Project2/blob/cfd7329256604d4bfecc86f77eae050159a3f8ce/secondbackground.jpeg"},
+    {"WaterDescription":"Among U.S. adults, women consumed 2.75 liters (93 ounces) per day. Women aged 60 and over consumed less water (2.51 liters) than women aged 20–39 (2.78 liters) and 40–59 (2.9 liters).","Image":"https://github.com/saadfaisal321/IT315Project2/blob/cfd7329256604d4bfecc86f77eae050159a3f8ce/secondbackground.jpeg"}
   ],
   "Status":"OK"
 }
